@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Paul Sweeney"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Undergraduate CS student at the UMN"
+  location         : "Mound, MN"
+  employer         : "University of Minnesota Twin Cities"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sween502@umn.edu" 
 
   # Academic websites
   academia         : # URL
