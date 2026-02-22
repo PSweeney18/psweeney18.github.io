@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is a simple webpage currently under construction. It will be updated and refined over time. You can find my CV on the other page.
 
+This is a simple webpage currently under construction. It will be updated and refined over time. You can find my CV on the other page.
 
 Paul's Website
 ======
