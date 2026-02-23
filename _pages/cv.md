@@ -1,22 +1,35 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* Bachelors of Science in Computer Science, 2027 (expected)
+## Curriculum Vitae
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+You can download my full CV here:
 
+[Download CV (PDF)](/files/Paul_Sweeney_CV.pdf)
+
+---
+
+## Selected Projects
+
+### Election System (C++)
+Implemented plurality and STV election algorithms with CSV parsing and performance guarantees.
+
+[View on GitHub](https://github.com/yourusername/election-system)
+
+---
+
+### Lisp Interpreter (OCaml)
+Built a scanner, parser, and evaluator with closures and lazy evaluation.
+
+[View on GitHub](https://github.com/yourusername/lisp-interpreter)
+
+---
+
+### NLP / Transformer Experiments
+Exploring semantic representations and neural architectures.
+
+[View on GitHub](https://github.com/yourusername/nlp-research)
